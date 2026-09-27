@@ -1,0 +1,9 @@
+Para uma melhor performance visual, execute o arquivo seguindo o passo a passo abaixo:
+
+1. Abra o Visual Studio Code.
+2. Abra a pasta 'Confessions' no aplicativo.
+3. Use o atalho "Ctrl + ' ".
+4. Digite 'make' e aguarde.
+5. Após o fim do carregamento, ainda no terminal do VS Code, digite ' .\Confessions.exe '.
+
+Caso não se incomode com pequenos bugs visuais ou mal carregamento dos emojis, basta executar o arquivo 'Confessions.exe'.
